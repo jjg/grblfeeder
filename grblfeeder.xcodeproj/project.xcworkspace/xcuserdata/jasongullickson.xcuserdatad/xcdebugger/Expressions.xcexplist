@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AppController runCode:]:AppController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "commandQueue">
+            </PersistentString>
+            <PersistentString
+               value = "commandQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppController filePanelDidEnd:returnCode:contextInfo:]:AppController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "commandQueue">
+            </PersistentString>
+            <PersistentString
+               value = "commandQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
