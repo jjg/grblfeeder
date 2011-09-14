@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE47018B1421336B00A418DF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BE47018A1421336B00A418DF /* README.md */; };
 		BEB8EABD13CB4AC9008EA050 /* AMSDKCompatibility.h in Headers */ = {isa = PBXBuildFile; fileRef = BEB8EAAF13CB4AC9008EA050 /* AMSDKCompatibility.h */; };
 		BEB8EABE13CB4AC9008EA050 /* AMSerialErrors.h in Headers */ = {isa = PBXBuildFile; fileRef = BEB8EAB013CB4AC9008EA050 /* AMSerialErrors.h */; };
 		BEB8EABF13CB4AC9008EA050 /* AMSerialPort_Deprecated.h in Headers */ = {isa = PBXBuildFile; fileRef = BEB8EAB113CB4AC9008EA050 /* AMSerialPort_Deprecated.h */; };
@@ -37,6 +38,7 @@
 		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		BE47018A1421336B00A418DF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		BEB8EAAF13CB4AC9008EA050 /* AMSDKCompatibility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSDKCompatibility.h; sourceTree = "<group>"; };
 		BEB8EAB013CB4AC9008EA050 /* AMSerialErrors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSerialErrors.h; sourceTree = "<group>"; };
 		BEB8EAB113CB4AC9008EA050 /* AMSerialPort_Deprecated.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSerialPort_Deprecated.h; sourceTree = "<group>"; };
@@ -51,7 +53,7 @@
 		BEB8EABA13CB4AC9008EA050 /* AMSerialPortList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMSerialPortList.m; sourceTree = "<group>"; };
 		BEB8EABB13CB4AC9008EA050 /* AMStandardEnumerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMStandardEnumerator.h; sourceTree = "<group>"; };
 		BEB8EABC13CB4AC9008EA050 /* AMStandardEnumerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMStandardEnumerator.m; sourceTree = "<group>"; };
-		E15800070C58DE2E00B8171B /* Info-grblfeederTest.plist */ = {isa = PBXFileReference; path = "Info-grblfeederTest.plist"; sourceTree = "<group>"; };
+		E15800070C58DE2E00B8171B /* Info-grblfeederTest.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-grblfeederTest.plist"; sourceTree = "<group>"; };
 		E15800080C58DE2F00B8171B /* grblfeederTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = grblfeederTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1CC710C106E6C2B00F7D688 /* BSD License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "BSD License.txt"; sourceTree = "<group>"; };
 		F5B6E09402D03AB10100010A /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 		29B97314FDCFA39411CA2CEA /* AMSerial */ = {
 			isa = PBXGroup;
 			children = (
+				BE47018A1421336B00A418DF /* README.md */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -237,6 +240,7 @@
 			files = (
 				E158FFF50C58DE2E00B8171B /* MainMenu.nib in Resources */,
 				E158FFF60C58DE2E00B8171B /* InfoPlist.strings in Resources */,
+				BE47018B1421336B00A418DF /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,3 @@
+I needed a way to feed gcode line-by-line to GRBL on the Mac and I couldn't find what I was looking for so....I wrote GRBLFeeder!
+
+Right now the app is very, very rough (in fact it usually crashes when running outside of the debugger).  However, in the spirit of sharing (and for the fact that I lost track of the code for awhile) I'm starting the repository now even though the code isn't quite ready for use by the general public.
