@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BE47018B1421336B00A418DF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BE47018A1421336B00A418DF /* README.md */; };
+		BE47018E142137D600A418DF /* HamsterBottle.png in Resources */ = {isa = PBXBuildFile; fileRef = BE47018D142137D600A418DF /* HamsterBottle.png */; };
 		BEB8EABD13CB4AC9008EA050 /* AMSDKCompatibility.h in Headers */ = {isa = PBXBuildFile; fileRef = BEB8EAAF13CB4AC9008EA050 /* AMSDKCompatibility.h */; };
 		BEB8EABE13CB4AC9008EA050 /* AMSerialErrors.h in Headers */ = {isa = PBXBuildFile; fileRef = BEB8EAB013CB4AC9008EA050 /* AMSerialErrors.h */; };
 		BEB8EABF13CB4AC9008EA050 /* AMSerialPort_Deprecated.h in Headers */ = {isa = PBXBuildFile; fileRef = BEB8EAB113CB4AC9008EA050 /* AMSerialPort_Deprecated.h */; };
@@ -39,6 +40,7 @@
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		BE47018A1421336B00A418DF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		BE47018D142137D600A418DF /* HamsterBottle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HamsterBottle.png; sourceTree = "<group>"; };
 		BEB8EAAF13CB4AC9008EA050 /* AMSDKCompatibility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSDKCompatibility.h; sourceTree = "<group>"; };
 		BEB8EAB013CB4AC9008EA050 /* AMSerialErrors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSerialErrors.h; sourceTree = "<group>"; };
 		BEB8EAB113CB4AC9008EA050 /* AMSerialPort_Deprecated.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMSerialPort_Deprecated.h; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 		29B97314FDCFA39411CA2CEA /* AMSerial */ = {
 			isa = PBXGroup;
 			children = (
+				BE47018D142137D600A418DF /* HamsterBottle.png */,
 				BE47018A1421336B00A418DF /* README.md */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -241,6 +244,7 @@
 				E158FFF50C58DE2E00B8171B /* MainMenu.nib in Resources */,
 				E158FFF60C58DE2E00B8171B /* InfoPlist.strings in Resources */,
 				BE47018B1421336B00A418DF /* README.md in Resources */,
+				BE47018E142137D600A418DF /* HamsterBottle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
