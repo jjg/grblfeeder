@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>grblfeederTest</string>
 	<key>CFBundleIconFile</key>
-	<string>HamsterBottle.png</string>
+	<string>HamsterWater.icns</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
@@ -18,6 +18,8 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>0.1</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
